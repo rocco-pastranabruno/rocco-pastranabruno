@@ -1,16 +1,20 @@
-## Hi there 👋
+# Rocco Pastrana Bruno 👋
 
-<!--
-**rocco-pastranabruno/rocco-pastranabruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Programación – Instituto Técnico La Falda  
+💻 Desarrollador Full-Stack en formación  
+🎮 Interesado en desarrollo de videojuegos y proyectos interactivos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+- PHP
+- JavaScript
+- HTML / CSS
+- JSON
+- Git
+- C#
+
+---
+
+## 🚀 Objetivo
+Desarrollar proyectos sólidos y adquirir experiencia profesional en desarrollo web.
